@@ -1,0 +1,1 @@
+The YouTube Video Summarizer Browser Extension is a tool that enhances the YouTube experience. It provides helpful summaries of video transcripts making it easier for users to consume content on the platform. This project combines natural language processing, web technologies and machine learning models to deliver content consumption.
